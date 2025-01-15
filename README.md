@@ -1,3 +1,8 @@
+# ℹ️ Learning React Native.
+
+This is a project I made following the tutorial alongside the video [Build Your First Mobile Application | React Native Real Estate App](https://www.youtube.com/watch?v=CzJQEstIiEI) by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos). I made changes to the app in the tutorial as I saw fit and changed the themes to my likings!
+This is just a learning project for me to get familiar and comfortable with React Native, and get into the realm of mobile app development.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
