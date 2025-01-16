@@ -10,6 +10,8 @@ This is just a learning project for me to get familiar and comfortable with Reac
 - React Native
 - TypeScript
 - NativeWind
+- AppWrite
+- GCP
 
 ---
 
