@@ -4,6 +4,15 @@ This is a project I made following the tutorial alongside the video [Build Your 
 
 This is just a learning project for me to get familiar and comfortable with React Native, and get into the realm of mobile app development.
 
+## ⚙️ Tech Stack
+
+- Expo
+- React Native
+- TypeScript
+- NativeWind
+
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
